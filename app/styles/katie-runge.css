@@ -1,0 +1,97 @@
+body {
+	color: #4a4a4a;
+	font-family: Garamond, "Hoefler Text",Times New Roman, Times, serif;
+	font-size: 15px;
+	font-size: 1.5rem;
+	font-weight: 300;
+	line-height: 1.615;
+
+	background-color: #eae6e6;
+	background-image: url('http://katierunge.wordpress.com/wp-content/themes/pub/forever/images/body-bg.png?m=1323725817g');
+	background-repeat: repeat;
+	background-position: top left;
+	background-attachment: fixed;
+}
+
+header {
+	font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 100%;
+	border: 0;
+	font-family: inherit;
+	font-size: 100%;
+	font-style: inherit;
+	font-weight: inherit;
+	margin: 0;
+	outline: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+
+h1 a {
+	color: #451593;
+}
+
+.site-title {
+	font-family: 'Raleway', sans-serif;
+	font-size: 60px;
+	font-size: 6rem;
+	line-height: 1.212;
+	text-align: center;
+}
+
+.site-title a {
+	color: #451593;
+}
+
+.page {
+	background: #fff;
+	border: 1px solid #bbb;
+	border-radius: 10px;
+	margin: 1.615em auto;
+	width: 960px;
+}
+
+#masthead {
+	padding: 3.23em 0 0;
+	margin: 0 3.645833333333%;
+}
+
+#access {
+	border: 3px double #eee;
+	border-width: 3px 0;
+	clear: both;
+	display: block;
+	float: left;
+	margin: 1.615em auto;
+	min-height: 43px;
+	position: relative;
+	width: 100%;
+}
+
+#main {
+	border-bottom: 18px solid #eee;
+	float: left;
+	padding-top: 1.615em;
+	width: 100%;
+}
+
+#description {
+	clear: both;
+	margin-bottom: 2.4225em;
+}
+
+#site-description {
+	border-bottom: 3px double #eee;
+	font-family: 'Raleway', "Helvetica Neue", Arial, Helvetica, "Nimbus Sans L", sans-serif;
+	font-size: 25px;
+	font-size: 2.5rem;
+	line-height: 1.17;
+	margin-bottom: 0;
+	padding-top: 0;
+	padding: 0 0 2em;
+	text-align: center;
+}
